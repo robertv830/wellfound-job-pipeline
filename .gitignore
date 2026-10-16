@@ -1,0 +1,12 @@
+# Environment files containing secrets
+.env
+
+# Generated data files
+*.csv
+*.json
+
+# Python virtual environment & cache
+__pycache__/
+*.pyc
+venv/
+.venv/
